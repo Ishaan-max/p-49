@@ -1,0 +1,45 @@
+h1 {
+    color:blue
+}
+/**{
+    border:solid
+
+}*/
+
+
+
+
+.grid{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    color:cornsilk;
+    background-color:rgb(39, 11, 163);
+}
+
+.item2{
+    display:flex;
+    justify-content:space-around;
+    color:cornsilk;
+    background-color:chartreuse;
+}
+
+
+
+p.h2{
+    text-align: center;
+    color:darkgreen;
+    
+}
+
+.item{
+  display: flex;
+  justify-content:flex-start;
+  
+  background-color: aqua; 
+}
+
+body{
+   background-color: #00f
+
+}
